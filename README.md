@@ -11,3 +11,5 @@ My Photo Blog: https://benperlinphotograhy.blogspot.com/
 My Camera Blog: https://benscameras.blogspot.com/
 
 Quora Version: https://benscameras.quora.com/
+
+linkedin: https://www.linkedin.com/in/benjaminperlin
