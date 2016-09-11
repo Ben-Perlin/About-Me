@@ -5,7 +5,7 @@ My other profiles:
 
 Quora: https://www.quora.com/profile/Ben-Perlin
 
-My Photo Blog: https://benperlinphotograhy.blogspot.com/
+My Photo Blog: https://benperlinphotography.blogspot.com/
 
 
 My Camera Blog: https://benscameras.blogspot.com/
