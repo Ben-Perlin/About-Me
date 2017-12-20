@@ -18,3 +18,5 @@ Quora Version: https://benscameras.quora.com/
 linkedin: https://www.linkedin.com/in/benjaminperlin
 
 ResearchGate: https://www.researchgate.net/profile/Ben_Perlin
+
+Felix Hoenikker (Techncial blog): https://felix-hoenikker.blogspot.com/
